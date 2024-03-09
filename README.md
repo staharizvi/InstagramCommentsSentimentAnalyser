@@ -22,7 +22,7 @@ Open the instagramcomments.py file and provide your Instagram credentials (usern
 Execute the instagramcomments.py script to start the web scraping process:
 python scraper.py
 
-## It is adviced only to use it ONLY posts with comments LESS THAN 5000. 
+## It is adviced to use it ONLY on posts with comments LESS THAN 5000. 
 ## Disclaimer
 ## This tool is intended for educational and research purposes only. It is crucial to respect Instagram's terms of service and user privacy. The developers of this tool are not responsible for any misuse or violation of Instagram's policies.
 
